@@ -2,7 +2,7 @@
 
 > You never fail until you stop trying
 
-This repository is a collection of **Google Summer of Code (GSoC) proposals** — especially those that were **not accepted**.
+This repository is a collection of **Google Summer of Code (GSoC) proposals**, especially those that were **not accepted**.
 
 Most repositories showcase only *winning proposals*.
 This one focuses on the **process, effort, and lessons behind the attempts**, and on recognizing the work of everyone who tried.
