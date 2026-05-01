@@ -1,62 +1,68 @@
-# 🚧 GSoC Effort Archive
+# GSoC Effort Archive
 
 > You never fail until you stop trying
 
 This repository is a collection of **Google Summer of Code (GSoC) proposals** — especially those that were **not accepted**.
 
 Most repositories showcase only *winning proposals*.
-This one focuses on the **process, effort, and lessons behind the attempts** and celebrating the effort of everyone who **tried**.
+This one focuses on the **process, effort, and lessons behind the attempts**, and on recognizing the work of everyone who tried.
 
 ---
 
-## 🌱 Why this exists
+## Why this exists
 
 GSoC is not just about getting selected.
 
 It's about:
 
 * Understanding open-source ecosystems
-* Co-ordinating with maintainers
+* Coordinating with maintainers
 * Learning how to write strong technical proposals
 * Improving through failure and feedback
 
-Rejected proposals are **extremely valuable** because they show:
+Rejected proposals are valuable because they show:
 
-* What *almost worked*
+* What almost worked
 * Common mistakes
 * How people think and structure ideas
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
-|- Year
-    |- Organization Name
-        |- proposal
+|- Organization Name
+    |- username/
+        |- proposal.pdf
         |- Notes.md (optional)
 ```
 
-### 📌 File Naming Convention
+Each organization has its own folder.
+Each contributor creates a folder using their username inside the organization directory and places their files there.
+
+## File Naming Convention
 
 ```
-project-name_username.pdf
+proposal.pdf
+Notes.md
 ```
+
+* Do not include the username in filenames
+* The folder name already represents the contributor
+* Keep filenames consistent for all submissions
 
 ---
 
-## ✍️ What you can contribute
+## What you can contribute
 
-* Your **GSoC proposal (accepted or rejected)**
+* Your GSoC proposal (accepted or rejected)
 * Optional:
 
   * Feedback you received
-  * What you'd improve
+  * What you would improve
   * Lessons learned
 
----
-
-## 🚀 How to Contribute
+## How to Contribute
 
 1. Fork this repository
 2. Clone your fork
@@ -73,20 +79,12 @@ project-name_username.pdf
    ```
 6. Push and create a Pull Request
 
----
-
-## 🧠 Contribution Guidelines
+## Contribution Guidelines
 
 * Do not plagiarize proposals
 * Only upload your own work or with permission
-* Keep naming consistent
+* Follow the folder structure and naming conventions
 * Be respectful in notes and feedback
-
----
-
-## ⚠️ Disclaimer
-
-This repository is **not affiliated with Google or GSoC**.
 
 ---
 
@@ -94,7 +92,7 @@ This repository is **not affiliated with Google or GSoC**.
 
 If you find this helpful, consider starring the repo!
 
----
-
 > “Winning teaches you something.
 > Trying teaches you everything.”
+
+---
